@@ -1,4 +1,4 @@
-.php
-.java
-.asp
-.xls
+*.php
+*.java
+*.asp
+*.xls
